@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/evillyf/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&theme=radical" />
 </a>
 
-<img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
