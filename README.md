@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/evillyf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://instagram.com/evilly.dias_">
