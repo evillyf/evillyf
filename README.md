@@ -1,5 +1,5 @@
 <!--### Futura garota de programa (programadora ok) 😇-->
-### All made with ❤️ 
+### All made with ❤️ and code. 
 
 <!--
 **evillyf/evillyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
