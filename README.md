@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/evillyf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&hide=Procfile&theme=dark" />
 </a>
 
 <a href="https://instagram.com/evilly.dias_">
