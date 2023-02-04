@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evillyf&layout=compact&show_icons=true&hide=Procfile,TypeScript,Objective-C,Starlark,Ruby,C,Cython,C++,kvlang,Java,PowerShell&theme=dark" />
 </a>
 
-<a href="https://instagram.com/evilly.dias_">
+<a href="https://instagram.com/dias.evilly">
 <img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
